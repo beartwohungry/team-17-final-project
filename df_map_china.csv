@@ -1,0 +1,45 @@
+position,total score,quantity score,quality score,business score,city,lat,lon,position change
+6,102.695,7.11,92.93,2.65,Beijing,39.904179,116.407387,small decrease
+7,70.617,5.1,62.87,2.65,Shanghai,31.230525,121.473667,remain unchanged
+18,35.101,3.06,29.39,2.65,Shenzhen,22.543527,114.057939,small increase
+30,24.846,1.69,20.5,2.65,Hangzhou,30.246026,120.210792,small increase
+36,22.091,3.01,16.43,2.65,Hong Kong,39.788249,116.326898,small decrease
+51,13.486,1.23,9.6,2.65,Guangzhou,23.130061,113.264499,obvious increase
+78,8.46,0.57,5.24,2.65,Chengdu,30.572961,104.066301,small increase
+114,6.342,0.42,3.27,2.65,Wuhan,30.593354,114.304569,obvious increase
+127,5.581,0.1,2.83,2.65,Changsha,28.228304,112.938882,obvious increase
+157,4.938,0.23,3.35,1.35,Nanjing,32.059344,118.796624,obvious increase
+181,4.514,0.15,1.71,2.65,Chongqing,29.563707,106.550483,obvious increase
+188,4.444,0.31,1.49,2.65,Xiamen,24.479627,118.08891,obvious decrease
+201,4.112,0.13,1.33,2.65,Qingdao,36.066938,120.382665,obvious increase
+216,3.775,0.08,1.04,2.65,Zhuhai,22.271644,113.576892,obvious increase
+259,2.789,0.11,0.65,2.02,TianJin,39.085318,117.201509,small decrease
+261,2.716,0.04,0.71,1.97,Chaoyang,41.601855,120.488801,obvious increase
+281,2.391,0.14,0.52,1.74,Fuzhou,25.004162,121.444756,substantial increase
+285,2.323,0.01,0.62,1.69,Yangzhou,32.394404,119.412834,new best city
+318,1.774,0.11,0.37,1.29,Ningbo,29.860258,121.62454,obvious increase
+336,1.622,0.11,0.33,1.18,Wuxi,31.491064,120.311889,substantial increase
+368,1.401,0.08,0.31,1.02,Jinan,36.652069,117.120128,substantial increase
+391,1.26,0.03,0.31,0.92,XiAn,38.189924,116.122767,new best city
+403,1.187,0.01,0.47,0.71,Changzhou,31.811313,119.974092,substantial increase
+411,1.151,0.1,0.22,0.84,Hefei,31.820567,117.227267,substantial increase
+429,1.053,0.02,0.27,0.77,Jiaxing,30.746814,120.755623,obvious decrease
+447,0.945,0.05,0.21,0.69,Baoshan,25.112018,99.161489,substantial increase
+470,0.813,0.08,0.15,0.59,Zhengzhou,34.746303,113.625351,substantial decrease
+486,0.777,0.14,0.07,0.56,Chian,23.569699,114.755911,obvious decrease
+528,0.652,0.04,0.14,0.47,Dalian,38.913962,121.614786,substantial decrease
+561,0.567,0.05,0.1,0.41,Foshan,23.021351,113.121586,obvious increase
+566,0.556,0.01,0.14,0.4,Zhenjiang,32.188141,119.424441,new best city
+576,0.539,0.02,0.12,0.39,Yantai,37.464551,121.447755,small decrease
+608,0.49,0.05,0.09,0.36,Shenyang,41.677576,123.464675,substantial increase
+620,0.476,0.04,0.09,0.35,Haikou,20.045805,110.198418,substantial increase
+651,0.441,0.01,0.11,0.32,Harbin,45.802981,126.53505,substantial increase
+675,0.411,0.01,0.1,0.3,Hainan,20.018639,110.348781,new best city
+701,0.373,0.03,0.08,0.27,Changchun,43.816996,125.323643,substantial increase
+716,0.353,0.02,0.08,0.26,Guiyang,26.646694,106.628201,new best city
+901,0.198,0.03,0.03,0.14,Taiyuan,37.870451,112.549656,obvious increase
+908,0.194,0.03,0.02,0.14,Kunming,24.88149,102.833669,obvious decrease
+922,0.191,0.03,0.03,0.14,Nanning,22.8177,108.366407,small increase
+923,0.191,0.02,0.03,0.14,Quanzhou,24.874452,118.675724,substantial decrease
+947,0.181,0.03,0.02,0.13,Shijiazhuang,38.042007,114.514976,substantial decrease
+984,0.166,0.02,0.02,0.12,Nanchang,28.682976,115.857972,obvious decrease

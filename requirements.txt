@@ -1,0 +1,10 @@
+cufflinks==0.17.3
+matplotlib==3.5.2
+numpy==1.23.3
+pandas==1.4.4
+Pillow==9.3.0
+plotly==5.11.0
+pyecharts==1.9.1
+requests==2.27.1
+streamlit==1.11.0
+streamlit_echarts==0.4.0
